@@ -1,6 +1,6 @@
 ### Olá! eu sou Lucas Campos
 
-- 🔭 Atualmente estou procurando uma vaga com desenvolvedor
+- 🔭 Atualmente estou procurando uma vaga como desenvolvedor
 - 🌱 Cursando Anàlise e desenvolvimento de sistemas
 - 👯 Contate-me no email: lucas.cgoncalves7@gmail.com
 - 😄 Pronouns: ele/dele
